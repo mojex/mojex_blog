@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://dorothea.ir/mojex_blog/sitemap.xml
